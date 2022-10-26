@@ -15,5 +15,12 @@
 <h3>Screenshots</h3>
 
 <h4>Screen 1</h4>
-
+<img src="https://github.com/shubhamgupta0007/Interview-Tasks/blob/main/Task%203/samples/Screenshot_1.png">
 <h4>Screen 2</h4>
+<img src="https://github.com/shubhamgupta0007/Interview-Tasks/blob/main/Task%203/samples/Screenshot_1.png">
+
+<h3>Screenrecord</h3>
+
+https://user-images.githubusercontent.com/81682528/198090941-daa8e9ef-872a-40f3-a2eb-cec0516b298b.mp4
+
+
